@@ -1654,3 +1654,4 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.09.20-00.24.52:810][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2023.09.20-00.24.52:814][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
 [2023.09.20-00.24.52:840][492]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.09.20-00.29.10:602][461]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Levels/StartingLevel does not exist, will not scan.
