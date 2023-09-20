@@ -1424,3 +1424,233 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.09.20-00.19.51:277][284]AssetCheck: New page: Asset Save: BlankLevel
 [2023.09.20-00.19.51:277][284]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/BlankLevel.BlankLevel
 [2023.09.20-00.19.52:673][380]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Levels/StartingLevel does not exist, will not scan.
+[2023.09.20-00.22.31:468][856]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Levels/StartingLevel does not exist, will not scan.
+[2023.09.20-00.23.47:313][805]LogSlate: Window 'View Changes' being destroyed
+[2023.09.20-00.23.47:336][805]LogSlate: Window 'View Changes' being destroyed
+[2023.09.20-00.24.05:543][961]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.09.20-00.24.10:815][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.10:837][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.10:859][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.10:880][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.10:902][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.10:924][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.10:945][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.10:967][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.10:989][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:011][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:033][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:055][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:078][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:100][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:122][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:144][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:166][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:188][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:210][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:232][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:254][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:276][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:298][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:320][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:342][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:364][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:387][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:408][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:430][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:451][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:473][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:495][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:517][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:538][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:560][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:581][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:603][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:625][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:647][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:668][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:689][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:710][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:732][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:753][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:776][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:797][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:819][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:841][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:862][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:884][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:906][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:927][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:949][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:970][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.11:992][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:014][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:035][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:057][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:080][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:101][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:122][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:144][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:165][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:188][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:209][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:231][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:253][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:274][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:296][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:318][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:339][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:361][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:383][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:405][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:427][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:448][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:470][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:491][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:513][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:535][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:557][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:579][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:600][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:622][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:643][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:665][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:687][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:708][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:730][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:752][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:774][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:795][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:817][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:839][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:861][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:882][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:903][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:925][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:947][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:968][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.12:990][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.13:011][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.13:033][233]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/E/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalObjects__/Levels/StartingLevel/5/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalObjects__/Levels/StartingLevel/B/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalObjects__/Levels/StartingLevel/6/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalObjects__/Levels/StartingLevel/0/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalObjects__/Levels/StartingLevel/7/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalObjects__/Levels/StartingLevel/7/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/0/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/6/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/9/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/6/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/F/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/0/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/4/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/3/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/3/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/3/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/1/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/6/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/B/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/5/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/C/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/B/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/4/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/E/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/5/': No such file or directory
+[2023.09.20-00.24.13:054][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/9/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/4/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/E/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/E/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/C/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/7/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/0/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/8/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/5/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/5/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/1/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/5/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/A/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/6/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/5/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/0/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/1/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/E/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/0/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/0/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/0/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/D/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/3/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/A/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/6/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/8/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/6/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/4/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/1/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/4/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/4/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/0/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/1/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/A/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/4/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/3/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/A/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/2/': No such file or directory
+[2023.09.20-00.24.13:055][233]SourceControl: Error: warning: could not open directory 'SpherePong/Content/__ExternalActors__/Levels/StartingLevel/A/': No such file or directory
+[2023.09.20-00.24.13:068][234]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.09.20-00.24.17:197][483]LogSlate: Window 'View Changes' being destroyed
+[2023.09.20-00.24.17:220][483]LogSlate: Window 'View Changes' being destroyed
+[2023.09.20-00.24.45:508][840]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.20-00.24.45:516][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.20-00.24.45:517][840]PIE: New page: PIE session: BlankLevel (Sep 19, 2023, 2:24:45 PM)
+[2023.09.20-00.24.45:521][840]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.09.20-00.24.45:521][840]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.09.20-00.24.45:522][840]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BlankLevel
+[2023.09.20-00.24.45:524][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002238s)
+[2023.09.20-00.24.45:524][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BlankLevel.BlankLevel to /Game/Levels/UEDPIE_0_BlankLevel.BlankLevel (0.002279s)
+[2023.09.20-00.24.45:528][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.09.20-00.24.45:530][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.20-00.24.45:531][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-00.24.45:531][840]LogAIModule: Creating AISystem for world BlankLevel
+[2023.09.20-00.24.45:532][840]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2023.09.20-00.24.45:532][840]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.09.20-00.24.45:532][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.20-00.24.45:532][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.20-00.24.45:532][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.20-00.24.45:532][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.20-00.24.45:532][840]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.20-00.24.45:532][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.20-00.24.45:532][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.20-00.24.45:532][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.20-00.24.45:532][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.20-00.24.45:532][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.20-00.24.45:532][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.20-00.24.45:534][840]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.20-00.24.45:549][840]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.09.20-00.24.45:549][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.20-00.24.45:549][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.20-00.24.45:549][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.20-00.24.45:550][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.09.20-00.24.45:550][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.09.20-00.24.45:550][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.09.20-00.24.45:551][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.09.20-00.24.45:551][840]LogInit: FAudioDevice initialized with ID 2.
+[2023.09.20-00.24.45:551][840]LogAudio: Display: Audio Device (ID: 2) registered with world 'BlankLevel'.
+[2023.09.20-00.24.45:551][840]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.09.20-00.24.45:556][840]LogLoad: Game class is 'GameModeBase'
+[2023.09.20-00.24.45:556][840]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BlankLevel.BlankLevel up for play (max tick rate 0) at 2023.09.19-19.24.45
+[2023.09.20-00.24.45:557][840]LogWorld: Bringing up level for play took: 0.000831
+[2023.09.20-00.24.45:558][840]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2023.09.20-00.24.45:572][840]PIE: Server logged in
+[2023.09.20-00.24.45:573][840]PIE: Play in editor total start time 0.059 seconds.
+[2023.09.20-00.24.52:798][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-00.24.52:798][491]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_BlankLevel
+[2023.09.20-00.24.52:798][491]LogWorld: UWorld::CleanupWorld for BlankLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-00.24.52:798][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-00.24.52:802][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.20-00.24.52:804][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-00.24.52:808][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.20-00.24.52:808][491]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.09.20-00.24.52:808][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.20-00.24.52:810][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.20-00.24.52:814][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.20-00.24.52:840][492]LogPlayLevel: Display: Destroying online subsystem :Context_2
