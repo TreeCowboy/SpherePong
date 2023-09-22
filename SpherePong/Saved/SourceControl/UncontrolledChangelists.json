@@ -4,7 +4,15 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/Input_BP.uasset",
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/Player_Pong.uasset",
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/Levels/BlankLevel.umap",
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/Pong_Ball.uasset",
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/Playable_BPI.uasset",
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/GameMode_BP.uasset",
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/PC_BP.uasset"
+			]
 		}
 	]
 }
