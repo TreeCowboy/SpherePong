@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/wyatt/Unreal/Github/SpherePong/SpherePong/Content/FirstPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/wyatt/Unreal/Github/SpherePong/SpherePong/Content/Levels/BlankLevel.umap",
+				"C:/Users/wyatt/Unreal/Github/SpherePong/SpherePong/Content/BPs/SphereArena_BP.uasset",
+				"C:/Users/wyatt/Unreal/Github/SpherePong/SpherePong/Content/BPs/Pong_Ball.uasset",
+				"C:/Users/wyatt/Unreal/Github/SpherePong/SpherePong/Content/Levels/_GENERATED/wyatt/Sphere_3C08D184.uasset",
+				"C:/Users/wyatt/Unreal/Github/SpherePong/SpherePong/Content/Levels/_GENERATED/wyatt/Boolean_7B2ADCE8.uasset",
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/Player_Pong.uasset",
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/Levels/BlankLevel.umap",
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/Pong_Ball.uasset",
@@ -48,11 +54,8 @@
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/Input_BP.uasset",
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/Playable_BPI.uasset",
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/PC_BP.uasset",
-				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/FirstPerson/Input/Actions/IA_Fly.uasset",
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/FirstPerson/Input/Actions/IA_FlyUp.uasset",
-				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/FirstPerson/Input/Actions/IA_FlyDown.uasset",
-				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/FirstPerson/Input/IMC_Default.uasset",
-				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/FirstPerson/Input/Actions/IA_FlyDown.uasset"
 			]
 		}
 	]
