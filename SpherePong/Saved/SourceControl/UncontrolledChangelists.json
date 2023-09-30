@@ -30,6 +30,8 @@
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/StarterContent/Audio/PongHit_AU.uasset",
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/GameState_BP_Pong.uasset",
 				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/BP_Ball.uasset",
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/BPs/BP_Goal.uasset",
+				"D:/anima/Documents/CodingTests/SpherePong/SpherePong/Content/Materials/goal_Mat.uasset",
 				"C:/Users/wyatt/Unreal/Github/SpherePong/SpherePong/Content/FirstPerson/Blueprints/BP_Player.uasset",
 				"C:/Users/wyatt/Unreal/Github/SpherePong/SpherePong/Content/Levels/BlankLevel.umap",
 				"C:/Users/wyatt/Unreal/Github/SpherePong/SpherePong/Content/BPs/SphereArena_BP.uasset",
